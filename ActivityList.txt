@@ -1,0 +1,27 @@
+Activities:
+-Sign up/log in
+	-Legal terms
+-Homepage(search)
+-Place to store/view info(spreadsheet, page, or Profile)
+	-Specification
+-calendar?
+-FAQ
+-review/rate page(Target @ a specific tutor) (* +/- comment)
+
+		Users:
+	-Tutor
+		-Cannot rate/review
+		-Edit profile page
+			-Their page
+		-contact info on page(choices)
+			-email
+			-phone
+			
+	-Student
+		-Can rate/review
+		-Accounts(no profile but can msg + view pages)
+		
+	-Both
+		-can view calendar
+		
+		
